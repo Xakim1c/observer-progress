@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/observer-progress/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/observer-progress/static/js/main.bed6ec2f.chunk.js",
-    "main.js.map": "/observer-progress/static/js/main.bed6ec2f.chunk.js.map",
-    "runtime-main.js": "/observer-progress/static/js/runtime-main.2c54a6d1.js",
-    "runtime-main.js.map": "/observer-progress/static/js/runtime-main.2c54a6d1.js.map",
+    "main.js": "/observer-progress/static/js/main.32173ae9.chunk.js",
+    "main.js.map": "/observer-progress/static/js/main.32173ae9.chunk.js.map",
+    "runtime-main.js": "/observer-progress/static/js/runtime-main.5a769a8d.js",
+    "runtime-main.js.map": "/observer-progress/static/js/runtime-main.5a769a8d.js.map",
     "static/css/2.6c0f60ba.chunk.css": "/observer-progress/static/css/2.6c0f60ba.chunk.css",
-    "static/js/2.48134687.chunk.js": "/observer-progress/static/js/2.48134687.chunk.js",
-    "static/js/2.48134687.chunk.js.map": "/observer-progress/static/js/2.48134687.chunk.js.map",
-    "static/js/3.9c441dff.chunk.js": "/observer-progress/static/js/3.9c441dff.chunk.js",
-    "static/js/3.9c441dff.chunk.js.map": "/observer-progress/static/js/3.9c441dff.chunk.js.map",
+    "static/js/2.932b8168.chunk.js": "/observer-progress/static/js/2.932b8168.chunk.js",
+    "static/js/2.932b8168.chunk.js.map": "/observer-progress/static/js/2.932b8168.chunk.js.map",
+    "static/js/3.ca40a1ba.chunk.js": "/observer-progress/static/js/3.ca40a1ba.chunk.js",
+    "static/js/3.ca40a1ba.chunk.js.map": "/observer-progress/static/js/3.ca40a1ba.chunk.js.map",
     "index.html": "/observer-progress/index.html",
     "static/css/2.6c0f60ba.chunk.css.map": "/observer-progress/static/css/2.6c0f60ba.chunk.css.map",
     "static/css/main.8c8b27cf.chunk.css.map": "/observer-progress/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.48134687.chunk.js.LICENSE.txt": "/observer-progress/static/js/2.48134687.chunk.js.LICENSE.txt",
+    "static/js/2.932b8168.chunk.js.LICENSE.txt": "/observer-progress/static/js/2.932b8168.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/observer-progress/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c54a6d1.js",
+    "static/js/runtime-main.5a769a8d.js",
     "static/css/2.6c0f60ba.chunk.css",
-    "static/js/2.48134687.chunk.js",
+    "static/js/2.932b8168.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.bed6ec2f.chunk.js"
+    "static/js/main.32173ae9.chunk.js"
   ]
 }
